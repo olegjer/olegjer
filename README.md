@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning codespace.
 - 💞️ I’m looking to collaborate on getting new skills.
 - 📫 How to reach me, 'bigermak25@gmail.com
-
+I try my best to understand what to do.
 <!---
 olegjer/olegjer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
